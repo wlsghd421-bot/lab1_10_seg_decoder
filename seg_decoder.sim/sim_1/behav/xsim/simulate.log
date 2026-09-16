@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+LAB1_PASS seg_decoder cases=16
+$finish called at time : 160 ns : File "C:/Users/wlsgh/lab1_10_seg_decoder/sim/tb_seg_decoder.sv" Line 34
+The current simulation has finished. Please use 'restart' to begin a new simulation.
+$finish called at time : 160 ns : File "C:/Users/wlsgh/lab1_10_seg_decoder/sim/tb_seg_decoder.sv" Line 34
